@@ -206,7 +206,7 @@ Superstore.csv  (9,994 rows × 21 columns)
 
 The Dashboard page consolidates all key performance metrics into a clean, executive-ready single-screen layout with interactive slicers at the top, four KPI cards below, and two side-by-side bar charts at the bottom.
 
-![Superstore Sales Dashboard](Dashboard.png)
+![Superstore Sales Dashboard](Assets/Dashboard.png)
 
 ---
 
@@ -270,7 +270,7 @@ West leads all regions with ₹ 108K profit — nearly 3× the Central region's 
 
 The Table page provides a complete scrollable grid of all order records for detailed exploration. It is accessible via the **Table** tab at the bottom of the Power BI report.
 
-![Data Table View](Table.png)
+![Data Table View](Assets/Table.png)
 
 **Columns visible in the Table page:**
 
